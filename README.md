@@ -1,1 +1,1 @@
-taylorSeries
+Simple Taylor Series calculator.
